@@ -1,2 +1,2 @@
-# semeval-2025-task10-PFWT10
-SemEval Task 10 Repository for tracking progress on the task, updating documentation, and ensuring transparency
+## **Subtask 2**
+This branch contains the implementation for Subtask 2: Narrative Classification, focusing on assigning narrative and subnarrative labels to news articles.
