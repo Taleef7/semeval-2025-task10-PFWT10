@@ -1,2 +1,2 @@
-# semeval-2025-task10-PFWT10
-SemEval Task 10 Repository for tracking progress on the task, updating documentation, and ensuring transparency
+## **Subtask 3**
+This branch contains the implementation for Subtask 3: Narrative Extraction, which generates concise, text-based explanations for dominant narratives in articles.
